@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">WELCOME TO KK FUNDA</h1>
-<h1 align="center">Banglore</h1>
+<h1 align="center">Hyderabad</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
